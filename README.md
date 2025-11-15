@@ -10,7 +10,7 @@
 I’m passionate about coding for a cause and building tech solutions that make an impact.
 </p>
 
----
+
 
 ## Connect with me
 <p align="left">
