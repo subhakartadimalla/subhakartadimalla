@@ -1,58 +1,52 @@
-<h1 align="center">Hi 👋, I'm Subhakar</h1>
-<h3 align="center">
-I’m passionate about building tech that creates real-world impact.  
-When I’m not coding for a cause, you’ll find me unwinding with a game of badminton 🏸.
-</h3>
-
+<!-- TITLE CARD -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhakartadimalla&label=Profile%20views&color=0e75b6&style=flat" alt="subhakartadimalla" />
+  <img src="IMAGE_LINK_HERE" alt="hi i am Subhakar" width="100%" />
+</p>
+
+<!-- ABOUT ME -->
+<p align="center" style="color:#cfcfcf; font-size:16px;">
+I’m passionate about building meaningful technology — from AI systems to real-time computer vision models.  
+When I’m not coding, I’m probably on the badminton court 🏸.
 </p>
 
 ---
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/subhakarxt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/subhakarxt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhakarxt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhakarxt" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36px"/>
+</a>
+<a href="https://instagram.com/subhakarxt" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="36px"/>
+</a>
+<a href="https://leetcode.com/subhakarxt" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="36px"/>
+</a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages & Tools  
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,html,css,js,aws,docker,kubernetes,mysql,mongodb,git,opencv,tensorflow" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&title_color=cccccc&text_color=cccccc&icon_color=9f9f9f&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhakartadimalla&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=subhakartadimalla&hide_border=true&background=00000000&ring=bbbbbb&fire=bbbbbb&currStreakLabel=cccccc&sideLabels=cccccc&dates=999999" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=compact&title_color=cccccc&text_color=cccccc&bg_color=00000000&hide_border=true" />
 </p>
 
+---
+
+## ⚡ Fun fact  
+I think I’m funny… my compiler disagrees 😄
