@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-<p align="center" style="color:#e6d8c3; font-size:18px;">
+<p align="center" style="color:#e6d8c3; font-size:22px;">
 I’m passionate about coding for a cause and building tech solutions that make an impact.
 </p>
 
