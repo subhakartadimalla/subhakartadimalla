@@ -1,3 +1,40 @@
+<!-- TITLE CARD -->
+<p align="center">
+  <img width="500" height="500" alt="banner" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
+</p>
+
+<br/>
+
+<!-- ABOUT ME -->
+<p align="center" style="color:#e6d8c3; font-size:18px;">
+Hi, I’m Subhakar! I’m passionate about coding for a cause - building tech solutions that make an impact.  
+I love unwinding with a game of badminton — when I’m not coding for a cause, you’ll probably find me on the badminton court.
+</p>
+
+---
+
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/subhakarxt" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+</a>
+<a href="https://instagram.com/subhakarxt" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+</a>
+<a href="https://leetcode.com/subhakarxt" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+</a>
+</p>
+
+---
+
+## Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,html,css,js,aws,docker,kubernetes,mysql,mongodb,git,opencv,tensorflow" />
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -8,8 +45,7 @@
     &text_color=e6d8c3
     &icon_color=d48a53
     &bg_color=00000000
-    &hide_border=true
-    " 
+    &hide_border=true" 
   />
 </p>
 
@@ -24,8 +60,7 @@
     &sideNums=d48a53
     &currStreakLabel=e6d8c3
     &sideLabels=e6d8c3
-    &dates=b9a793
-    " 
+    &dates=b9a793" 
   />
 </p>
 
@@ -36,7 +71,11 @@
     &title_color=e6d8c3
     &text_color=d48a53
     &bg_color=00000000
-    &hide_border=true
-    " 
+    &hide_border=true" 
   />
 </p>
+
+---
+
+## ⚡ Fun fact  
+I think I’m funny… the compiler disagrees 😄
