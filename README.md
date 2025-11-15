@@ -1,6 +1,6 @@
 <!-- TITLE CARD -->
 <p align="center">
-  <img width="500" height="200" alt="banner" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
+  <img width="500" height="300" alt="banner" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
 </p>
 
 <br/>
