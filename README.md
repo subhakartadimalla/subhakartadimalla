@@ -1,6 +1,6 @@
 <!-- TITLE CARD -->
 <p align="center">
-  <img width="1024" height="1024" alt="ChatGPT Image Nov 15, 2025, 01_32_16 PM" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
+  <img width="500" height="500" alt="ChatGPT Image Nov 15, 2025, 01_32_16 PM" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
 </p>
 
 <!-- ABOUT ME -->
