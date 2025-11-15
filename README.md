@@ -7,14 +7,12 @@
 
 <!-- ABOUT ME -->
 <p align="center" style="color:#e6d8c3; font-size:18px;">
-Building technology that makes real-world impact.  
-Focused on AI, ML, CV, and clean system design.  
-When I’m not coding, I’m probably on a badminton court 🏸.
+Hi, I’m Subhakar! I’m passionate about coding for a cause - building tech solutions that make an impact and I love unwinding with a game of badminton. When I’m not coding for a cause, you’ll probably find me on the badminton court.
 </p>
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/subhakarxt" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
@@ -29,14 +27,14 @@ When I’m not coding, I’m probably on a badminton court 🏸.
 
 ---
 
-## 🛠️ Languages & Tools  
+## Languages & Tools  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,html,css,js,aws,docker,kubernetes,mysql,mongodb,git,opencv,tensorflow" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Minimal + Matching Theme)
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&title_color=e6d8c3&text_color=e6d8c3&icon_color=c7b8a2&bg_color=00000000&hide_border=true" />
