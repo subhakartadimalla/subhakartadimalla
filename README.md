@@ -7,8 +7,7 @@
 
 <!-- ABOUT ME -->
 <p align="center" style="color:#e6d8c3; font-size:18px;">
-Hi, I’m Subhakar! I’m passionate about coding for a cause - building tech solutions that make an impact.  
-I love unwinding with a game of badminton — when I’m not coding for a cause, you’ll probably find me on the badminton court.
+Hi, I’m Subhakar! I’m passionate about coding for a cause - building tech solutions that make an impact.
 </p>
 
 ---
@@ -86,7 +85,4 @@ I love unwinding with a game of badminton — when I’m not coding for a cause,
   />
 </p>
 
----
 
-## ⚡ Fun fact  
-I think I’m funny… the compiler disagrees 😄
