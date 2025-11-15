@@ -1,6 +1,6 @@
 <!-- TITLE CARD -->
 <p align="center">
-  <img src="https://github.com/subhakartadimalla/subhakartadimalla#:~:text=ChatGPT%20Image%20Nov%2015%2C%202025%2C%2001_32_16%20PM.png" alt="hi i am Subhakar" width="100%" />
+  <img width="1024" height="1024" alt="ChatGPT Image Nov 15, 2025, 01_32_16 PM" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
 </p>
 
 <!-- ABOUT ME -->
