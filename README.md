@@ -1,3 +1,5 @@
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -7,10 +9,14 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<!-- ================= VISITOR COUNTER ================= -->
 
-
-
-
+<p align="center">
+  <img
+    src="https://profile-counter.deno.dev/subhakartadimalla/count.svg"
+    alt="Profile Visitor Count"
+  />
+</p>
 
 <!-- ================= BANNER ================= -->
 <p align="center">
@@ -80,14 +86,6 @@
 </div>
 
 
-<!-- ================= VISITOR COUNTER ================= -->
-
-<p align="center">
-  <img
-    src="https://profile-counter.deno.dev/subhakartadimalla/count.svg"
-    alt="Profile Visitor Count"
-  />
-</p>
 
 
 ## 📕 Latest Blog Posts
