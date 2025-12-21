@@ -22,7 +22,7 @@
 
 <!-- ================= TYPING HEADER ================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Subhakar!;Software+Engineer+in+the+Making" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Subhakar!; Software+Engineer+in+the+Making" />
 </h1>
 
 <h3 align="center">
