@@ -1,10 +1,5 @@
 <!-- ================= VISITOR COUNTER ================= -->
-<p align="center">
-  <img
-    src="https://count.getloli.com/get/@subhakartadimalla?theme=moebooru"
-    alt="Visitor Count"
-  />
-</p>
+
 <p align="center">
   <img
     src="https://count.getloli.com/get/@subhakartadimalla?theme=dark"
