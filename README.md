@@ -2,10 +2,11 @@
 
 <p align="center">
   <img
-    src="https://count.getloli.com/get/@subhakartadimalla?theme=dark"
-    alt="Visitor Count"
+    src="https://profile-counter.deno.dev/subhakartadimalla/count.svg"
+    alt="Profile Visitor Count"
   />
 </p>
+
 
 
 
