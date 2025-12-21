@@ -22,12 +22,16 @@
 
 <!-- ================= TYPING HEADER ================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Subhakar!;Software+Engineer+in+the+Making" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=650&height=70&color=FFFFFF&duration=4000&lines=Hi+There!+👋;I'm+Subhakar!;Software+Engineer+in+the+Making"
+  />
 </h1>
 
-<h3 align="center">
- I’m passionate about coding for a cause - building tech solutions that make an impact and I love unwinding with a game of badminton. When I’m not coding for a cause, you’ll probably find me on the badminton court.
+<h3 align="center" style="color:#ffffff;">
+  I’m passionate about coding for a cause — building tech solutions that make an impact, and I love unwinding with a game of badminton.
+  When I’m not coding for a cause, you’ll probably find me on the badminton court.
 </h3>
+
 
 ---
 
