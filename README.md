@@ -1,7 +1,11 @@
 <!-- ================= VISITOR COUNTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhakartadimalla&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img
+    src="https://count.getloli.com/get/@subhakartadimalla?theme=moebooru"
+    alt="Visitor Count"
+  />
 </p>
+
 
 
 ---
