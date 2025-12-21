@@ -1,11 +1,13 @@
-<!-- ================= VISITOR COUNTER ================= -->
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://profile-counter.deno.dev/subhakartadimalla/count.svg"
-    alt="Profile Visitor Count"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 
 
@@ -78,14 +80,13 @@
 </div>
 
 
-## 🐍 Contribution Snake
+<!-- ================= VISITOR COUNTER ================= -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    src="https://profile-counter.deno.dev/subhakartadimalla/count.svg"
+    alt="Profile Visitor Count"
+  />
 </p>
 
 
