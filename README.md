@@ -10,14 +10,15 @@
 
 
 
----
-
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://github.com/subhakartadimalla/subhakartadimalla/blob/main/banner.png" alt="Profile Banner" />
+  <img
+    src="https://github.com/user-attachments/assets/caed2ab1-6aa2-484f-aa5c-dc04dbd873e8"
+    alt="Profile Banner"
+    width="100%"
+  />
 </p>
 
----
 
 <!-- ================= TYPING HEADER ================= -->
 <h1 align="center">
