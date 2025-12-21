@@ -1,8 +1,8 @@
 <!-- ================= VISITOR COUNTER ================= -->
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{subhakartadimalla}/count.svg" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhakartadimalla&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
