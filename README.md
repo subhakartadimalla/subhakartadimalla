@@ -1,91 +1,88 @@
-<!-- TITLE CARD -->
+<!-- ================= VISITOR COUNTER ================= -->
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/subhakartadimalla/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img width="550" height="350" alt="banner" src="https://github.com/user-attachments/assets/6b7bb74a-7c43-4d9d-8309-4e5a0d04dead" />
-</p>
-
-<br/>
-
-<!-- ABOUT ME -->
-<p align="center" style="color:#e6d8c3; font-size:22px;">
-I’m passionate about coding for a cause and building tech solutions that make an impact.
+  <img src="https://github.com/subhakartadimalla/subhakartadimalla/blob/main/banner.png" alt="Profile Banner" />
 </p>
 
 ---
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/subhakarxt" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-</a>
-  &nbsp;&nbsp;&nbsp;
-  
-<a href="https://instagram.com/subhakarxt" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/subhakarxt" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
-</a>
+<!-- ================= TYPING HEADER ================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Subhakar!;Software+Engineer+in+the+Making" />
+</h1>
+
+<h3 align="center">
+ I’m passionate about coding for a cause - building tech solutions that make an impact and I love unwinding with a game of badminton. When I’m not coding for a cause, you’ll probably find me on the badminton court.
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 CS Undergraduate @ SRM Institute of Science and Technology  
+- 🌱 Currently learning **System Design, Backend Engineering & Cloud**
+- 🔭 Working on **AI + Backend projects**
+- 💬 Ask me about **Java, C++, Python, Node.js, React**
+- ⚡ Fun fact: I love badminton, guitar & building cool side projects
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:tadimallasubhakar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhakartadimalla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://github.com/subhakartadimalla">
+    <img src="https://img.shields.io/badge/GitHub-1e1f26?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,react,nextjs,mongodb,postgres,git,docker,aws" />
 </p>
 
 ---
 
-## Languages & Tools  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,html,css,js,aws,docker,kubernetes,mysql,mongodb,git,opencv,tensorflow" />
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=transparent" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=subhakartadimalla&theme=transparent" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&title_color=e6d8c3&text_color=e6d8c3&icon_color=d48a53&bg_color=00000000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhakartadimalla&hide_border=true&background=00000000&ring=d48a53&fire=d48a53&currStreakNum=d48a53&sideNums=d48a53&currStreakLabel=e6d8c3&sideLabels=e6d8c3&dates=b9a793" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=compact&title_color=e6d8c3&text_color=d48a53&bg_color=00000000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla
-    &show_icons=true
-    &title_color=e6d8c3
-    &text_color=e6d8c3
-    &icon_color=d48a53
-    &bg_color=00000000
-    &hide_border=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=subhakartadimalla
-    &hide_border=true
-    &background=00000000
-    &ring=d48a53
-    &fire=d48a53
-    &currStreakNum=d48a53
-    &sideNums=d48a53
-    &currStreakLabel=e6d8c3
-    &sideLabels=e6d8c3
-    &dates=b9a793" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla
-    &layout=compact
-    &title_color=e6d8c3
-    &text_color=d48a53
-    &bg_color=00000000
-    &hide_border=true" 
-  />
-</p>
-
-
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
