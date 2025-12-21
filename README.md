@@ -1,12 +1,4 @@
 
-## Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 <!-- ================= VISITOR COUNTER ================= -->
 
 <p align="center">
@@ -37,8 +29,6 @@
   I’m passionate about coding for a cause — building tech solutions that make an impact, and I love unwinding with a game of badminton.
   When I’m not coding for a cause, you’ll probably find me on the badminton court.
 </h3>
-
-## Contribution Snake
 
 
 ## 👨‍💻 About Me
@@ -84,7 +74,14 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent" />
 </div>
 
-
+## Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/subhakartadimalla/subhakartadimalla/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 
 ## 📕 Latest Blog Posts
