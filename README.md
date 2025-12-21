@@ -33,7 +33,6 @@
 </h3>
 
 
----
 
 ## 👨‍💻 About Me
 
@@ -43,7 +42,7 @@
 - 💬 Ask me about **Java, C++, Python, Node.js, React**
 - ⚡ Fun fact: I love badminton, guitar & building cool side projects
 
----
+
 
 ## 📫 Connect with Me
 
@@ -62,7 +61,6 @@
   </a>
 </div>
 
----
 
 ## 🛠️ Languages & Tools
 
@@ -70,7 +68,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,react,nextjs,mongodb,postgres,git,docker,aws" />
 </p>
 
----
 
 ## ⚡ GitHub Stats
 
@@ -80,7 +77,6 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent" />
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -92,7 +88,6 @@
   </picture>
 </p>
 
----
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
