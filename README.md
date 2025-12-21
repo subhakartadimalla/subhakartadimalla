@@ -1,7 +1,7 @@
 <!-- ================= VISITOR COUNTER ================= -->
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/subhakartadimalla/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{subhakartadimalla}/count.svg" alt="Visitor Count" />
 </div>
 
 ---
