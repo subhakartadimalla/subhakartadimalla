@@ -76,11 +76,15 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=transparent" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=subhakartadimalla&theme=transparent" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=transparent&hide_border=true" width="390" />
+  <img src="https://streak-stats.demolab.com?user=subhakartadimalla&theme=transparent&hide_border=true" width="390" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent&hide_border=true" width="325" />
+</p>
+
 
 
 
