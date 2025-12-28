@@ -77,11 +77,12 @@
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=subhakartadimalla&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=github_dark&hide_border=true)
+
 
 
 
