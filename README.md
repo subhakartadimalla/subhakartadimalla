@@ -74,15 +74,15 @@
 </p>
 
 
+
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=subhakartadimalla&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</div>
-ttps://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=transparent&hide_border=true&cache_seconds=1800"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=subhakartadimalla&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=github_dark&hide_border=true&cache_seconds=1800)
+
 
 
 
