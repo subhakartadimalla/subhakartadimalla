@@ -75,13 +75,12 @@
 
 
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhakartadimalla&show_icons=true&theme=github_dark&hide_border=true)
+- Focused on backend systems, AI, and scalable architectures  
+- Consistent project-based development  
+- Strong emphasis on clean code and real-world problem solving
 
-![GitHub Streak](https://streak-stats.demolab.com?user=subhakartadimalla&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhakartadimalla&layout=donut&theme=github_dark&hide_border=true)
 
 
 
