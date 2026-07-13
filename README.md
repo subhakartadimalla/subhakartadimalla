@@ -91,65 +91,57 @@
 
 
 
-## ✍️ Featured DSA Articles
+## 🧠 CS Concepts in Everyday articles
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7468713989506678784/">
-    <img src="https://img.shields.io/badge/LinkedIn-Longest_Substring_Without_Repeating_Characters-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+<td>📄</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7468713989506678784/">Pagination — Why LinkedIn & Amazon Don't Load Everything at Once</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7468276215611801600/">
-    <img src="https://img.shields.io/badge/LinkedIn-Longest_Repeating_Character_Replacement-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>🗂️</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7468276215611801600/">Database Indexing — How Instagram Finds Your Profile Instantly</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7467815476249812992/">
-    <img src="https://img.shields.io/badge/LinkedIn-Max_Consecutive_Ones_III-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>⚖️</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7467815476249812992/">Load Balancing — How Netflix Handles Millions of Users</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7467587355663650817/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fruits_into_Baskets-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>🚦</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7467587355663650817/">Rate Limiting — Preventing Traffic Overload</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7467253422627508225/">
-    <img src="https://img.shields.io/badge/LinkedIn-Binary_Subarrays_With_Sum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>⚡</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7467253422627508225/">Caching — Why Apps Feel Fast</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7464528525006643200/">
-    <img src="https://img.shields.io/badge/LinkedIn-Count_Number_of_Nice_Subarrays-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>🧩</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7464528525006643200/">Dynamic Programming — How Google Maps Recalculates Routes</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7464933628272205824/">
-    <img src="https://img.shields.io/badge/LinkedIn-Number_of_Substrings_Containing_All_Three_Characters-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>📊</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7464933628272205824/">Sorting — How Uber Finds the Best Driver</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7465424399005999104/">
-    <img src="https://img.shields.io/badge/LinkedIn-Max_Card_Points-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>🔍</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7465424399005999104/">Binary Search — More Than Searching Arrays</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7465635733911904256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Longest_K_Distinct_Characters-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<tr>
+<td>↔️</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7465635733911904256/">Doubly Linked Lists — Browser Back & Forward Navigation</a></td>
+</tr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7466333090307780608/">
-    <img src="https://img.shields.io/badge/LinkedIn-Subarrays_With_K_Different_Integers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-<!-- BLOG-POST-LIST:END -->
+<tr>
+<td>🌳</td>
+<td><a href="https://www.linkedin.com/feed/update/urn:li:activity:7466333090307780608/">Trees — How BookMyShow Ranks Trending Movies</a></td>
+</tr>
+
+</table>
