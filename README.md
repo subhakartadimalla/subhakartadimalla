@@ -90,8 +90,7 @@
 
 
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+
 ## ✍️ Featured DSA Articles
 
 <p align="center">
